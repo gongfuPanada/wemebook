@@ -17,6 +17,8 @@ namespace CustomInterface
 
         static void Main(string[] args)
         {
+            // cong 
+            
             Console.WriteLine("****** Fun With Interfaces ******\n");
             // Call Points property defined by IPointy.
             //Hexagon hex = new Hexagon();
